@@ -50,8 +50,8 @@ An Android application that demonstrates remote file management capabilities by 
 
 2. **Open in Android Studio**
    - Launch Android Studio
-   - Select "Open an existing project"
-   - Navigate to the android_project directory
+   - Select "Open"
+   - Navigate to the android_project/TermuxEXP directory
 
 3. **Sync Dependencies**
    - Android Studio will automatically detect the `build.gradle.kts` file
