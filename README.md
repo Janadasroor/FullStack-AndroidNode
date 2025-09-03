@@ -23,9 +23,7 @@ A full-stack file management system that enables remote file and folder operatio
    ```bash
    git clone https://github.com/Janadasroor/FullStack-AndroidNode.git
    ```
-     ```cmd
-   git clone https://github.com/Janadasroor/FullStack-AndroidNode.git
-
+  
 2. **Navigate to Project Directory**
    ```bash
    cd FullStack-AndroidNode
